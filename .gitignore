@@ -1,0 +1,6 @@
+app
+node_modules
+gulpfile.js
+dist/fonts/FontAwesome/advanced-options
+dist/fonts/FontAwesome/svg-with-js
+dist/fonts/FontAwesome/use-on-desktop
